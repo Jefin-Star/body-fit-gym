@@ -1,0 +1,6 @@
+{
+  "name": "Body Fit Gym",
+  "description": "Body Fit Gym - Build Your Strength. Transform Your Life. Premier unisex multi gym and health club with state-of-the-art strength training, personal coaching, and modern facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
